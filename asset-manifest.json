@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/academic_website/static/css/main.69f190f1.css",
+    "main.js": "/academic_website/static/js/main.884434fd.js",
+    "static/media/ph2.png": "/academic_website/static/media/ph2.a451df77cdbe6ecac47b.png",
+    "static/media/logo4.png": "/academic_website/static/media/logo4.3048e6b51ae0ece3e5c2.png",
+    "static/media/ph3.png": "/academic_website/static/media/ph3.d246816ac42617b215c6.png",
+    "static/media/s3.jpg": "/academic_website/static/media/s3.68dc15d02f748970c513.jpg",
+    "static/media/place2.png": "/academic_website/static/media/place2.12bd86d39680963a29a4.png",
+    "static/media/place1.png": "/academic_website/static/media/place1.570134baaf19e3e0c458.png",
+    "static/media/Untitled-1.png": "/academic_website/static/media/Untitled-1.86303656ebcadf181aee.png",
+    "index.html": "/academic_website/index.html",
+    "main.69f190f1.css.map": "/academic_website/static/css/main.69f190f1.css.map",
+    "main.884434fd.js.map": "/academic_website/static/js/main.884434fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69f190f1.css",
+    "static/js/main.884434fd.js"
+  ]
+}
